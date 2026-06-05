@@ -35,7 +35,7 @@ An evaluation of the annual trend card displays a terrifying 50% drop-off in tot
 
 ---
 
-## 🤖 The Nearly Uniform Distribution
+## The Nearly Uniform Distribution
 A basic dashboard report would rush to aggressively fund Chairs, Instagram, or FREESHIP coupons since they appeared to be the top revenue drivers. However, interactive cross-filtering exposed a highly uniform, near-perfect split across multiple variables:
 * Sales volume and revenue across seven totally different product categories look visually flat and uniform, leaving little difference between a bulky Chair and a Phone.
 * Marketing coupons and referral sources segment into nearly identical percentage parts across the board.
