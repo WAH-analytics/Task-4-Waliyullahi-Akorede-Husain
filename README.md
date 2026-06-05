@@ -44,11 +44,11 @@ A basic dashboard report would rush to aggressively fund Chairs, Instagram, or F
 
 ## Recommendations
 
-*  **I.** Since Chairs, Printers, and Phones all bring in roughly the same gross revenue due to the uniform split, stocking and selling the items that are the cheapest to warehouse and easiest to ship (like Phones over bulky Desk`) should be prioritized to maximize net profit margins.
-*  **II.** Since discount codes split evenly and do not drastically shift sales volume, the ones causing operational problems should be eliminated. WINTER15 should be discontinued and the highly successful FREESHIP code should be standardized to reduce checkout complexity and buyer's remorse.
-*  **III.** Because the company suffers from a flat customer purchase frequency of 1.0, marketing focus should move toward structured customer loyalty programs to actively turn one-time buyers into repeat customers.
-*  **IV.** Large carts drive the bulk of sales volume but carry a massive **$121.6K cancellation leak**. Implementing an automated verification hold for any cart containing 4+ items before it leaves the warehouse floor will proactively safeguard that at-risk capital.
-*  **V.** The Monthly Sales Trend chart proves that demand spikes heavily in June. Knowing that mid-year is peak sales season, the business should optimize its supply chain and stock up aggressively in Q1 and Q2 to handle big sales volume.
+*  Since Chairs, Printers, and Phones all bring in roughly the same gross revenue due to the uniform split, stocking and selling the items that are the cheapest to warehouse and easiest to ship (like Phones over bulky Desk`) should be prioritized to maximize net profit margins.
+*  Since discount codes split evenly and do not drastically shift sales volume, the ones causing operational problems should be eliminated. WINTER15 should be discontinued and the highly successful FREESHIP code should be standardized to reduce checkout complexity and buyer's remorse.
+*  Because the company suffers from a flat customer purchase frequency of 1.0, marketing focus should move toward structured customer loyalty programs to actively turn one-time buyers into repeat customers.
+*  Large carts drive the bulk of sales volume but carry a massive **$121.6K cancellation leak**. Implementing an automated verification hold for any cart containing 4+ items before it leaves the warehouse floor will proactively safeguard that at-risk capital.
+*  The Monthly Sales Trend chart proves that demand spikes heavily in June. Knowing that mid-year is peak sales season, the business should optimize its supply chain and stock up aggressively in Q1 and Q2 to handle big sales volume.
 
 ---
 
