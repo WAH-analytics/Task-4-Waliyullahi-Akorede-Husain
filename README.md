@@ -8,8 +8,8 @@ Following the exploratory query phase in Excel and SQL, I advanced to Power BI f
 
 ---
 
-## Tech Stack & Methodology
-* **Power BI Desktop:** Leveraged for data modeling, star schema architecture, and interactive report design.
+## Tools Used & Methodology
+* **Power BI Desktop:** Used for data modeling and interactive report design.
 * **DAX (Data Analysis Expressions):** Formulated custom measures and dynamic categorical binning for behavioral mapping.
 
 ---
